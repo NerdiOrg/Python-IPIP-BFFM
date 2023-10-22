@@ -4,4 +4,4 @@ Python script (single file) for command line IPIP BFFM test. Useful for personal
 
 ## C++ IPIP BFFM 
 
-If you want to use C++ instead, I released that here: https://github.com/NerdiOrg/Python-IPIP-BFFM
+If you want to use C++ instead, I released that here: https://github.com/NerdiOrg/CPP-IPIP-BFFM
